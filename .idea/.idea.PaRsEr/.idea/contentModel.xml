@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Git\AnKi-PaRsEr" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PaRsEr" t="IncludeRecursive">
+        <e p="AnkiDbContext.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DbStructure.cs" t="Include" />
+        <e p="Entities" t="Include">
+          <e p="Card.cs" t="Include" />
+          <e p="Note.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="PaRsEr.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PaRsEr.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="PaRsEr.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\butin\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\butin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\butin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_PaRsEr.670010013.00" t="ExcludeRecursive" />
+  </component>
+</project>
